@@ -52,6 +52,6 @@ As a (Bored) gamer/ Content Creator I want to keep track of and store my progres
 *these user stories are subject to change. this is a snapshot form 3 October 2022.
 
 ## C4 model
-![C4 model](images/Bingo_Kaart_Generator_C2-Model_V2.png)
+![C4 model](https://github.com/BingoCardGenerator/Documentation/blob/main/Proof/images/Bingo_Kaart_Generator_C2%20Model_V2.png)
 
 *this model is subject to change. This version is current as of 3 October 2022.

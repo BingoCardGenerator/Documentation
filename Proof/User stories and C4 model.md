@@ -1,19 +1,19 @@
 # User stories and C4 model
 
 ## Table of contents
--[Intro](#Intro)
--[Associated learning outcomes](#Associated-learning-outcomes)
--[User stories](#User-stories)
-  -[User story 1 - Card Generator](#User-story-1---Card-Generator)
-  -[User story 2 - Challenge separation](#User-story-2---Challenge-separation)
-  -[User story 3 - Filling in bingo cards](User-story-3---Filling-in-bingo-cards)
--[C4 model](#C4-model)
+- [Intro](#Intro)
+- [Associated learning outcomes](#Associated-learning-outcomes)
+- [User stories](#User-stories)
+  - [User story 1 - Card Generator](#User-story-1---Card-Generator)
+  - [User story 2 - Challenge separation](#User-story-2---Challenge-separation)
+  - [User story 3 - Filling in bingo cards](User-story-3---Filling-in-bingo-cards)
+- [C4 model](#C4-model)
 
 ## Intro 
 This project was started by coming up with a project idea. The idea was to create a web application where you can generate bingo cards with challenges for video games. this documents details the user stories that outline this project and the C4 model that details the structure of the application.
 
 ## Associated learning outcomes
-![Associated learning outcomes](https://github.com/BingoCardGenerator/Documentation/blob/main/dict/Learning%20Outcomes.md#requirements-and-design)
+[Requirements and design](https://github.com/BingoCardGenerator/Documentation/blob/main/dict/Learning%20Outcomes.md#requirements-and-design)
 
 
 ## User stories

@@ -19,5 +19,7 @@ For the CI in the frontend circle ci was used.
 
 ## Github workflow (.NET Core backend API's CI)
 For the CI in the backend Github workflow was used.
+
 (insert image here)
+
 *this screenshot was taken on 3 October.

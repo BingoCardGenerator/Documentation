@@ -59,11 +59,18 @@ Overseeing and the whole scrum process is the scrum master. for our project this
 
 ## CI/CD (IP)
 
+I implemented CI/CD into my project to make sure all my unit tests are ran automatically and my code is automatically deployed to Docker hub. 
+
 ### CI
 For CI I used Circle CI in the frontend and I used Github workflow in both of the API's more information on how I did this can be found [here](https://github.com/BingoCardGenerator/Documentation/blob/main/Proof/Ci.md)
+This has helped me makse sure all my code keeps working in the future. For example on 17/11/2022 I refactored my validation methods in the Challenge API into seprate methods. When I was doing this i implemented the boolean check the wrong way around resulting in the validation failing when it should pass and the other way around. 
+It probably would have taken me quite a while to notice this if I wouldn't have had unit tests and CI. But because my CI ran my unit tests when I was trying to merge and the tests failed I figured out that the check was the wrong way around. 
+
+CI helps a development team maintain good code quality as well as safeguard that the code actually works.  
 
 ### CD
-TBA
+CD is a process that automatically deploys code to a server when it is merged. This helps save time for development teams when they decide to release a new version of their software. When CD is implemented all they have to do is merge everything into the live branch and then everything is taken care of. 
+Without CD teams would have to make a seprate build and update it into the servers manualy. 
 
 ## Cultural diffrences and ethics (GP)
 TBA

@@ -73,7 +73,8 @@ CD is a process that automatically deploys code to a server when it is merged. T
 Without CD teams would have to make a seprate build and update it into the servers manualy. 
 
 ## Cultural diffrences and ethics (GP)
-TBA
+To get ahead of potentital issues with the group and colaboration we created [a contract](https://github.com/BingoCardGenerator/Documentation/blob/main/Proof/Groeps%20contract.pdf) outlining the rules of our group and how we work.
+This way everyone can be clear on what was expected of them and we do not run into issues of miscomunication on this front. 
 
 ## Requirements and design (IP)
 I have created layer 2 of the C4 model (detailing the structure of my overall application) and I created user stories. these can both be found [here](https://github.com/BingoCardGenerator/Documentation/blob/main/Proof/User%20stories%20and%20C4%20model.md)

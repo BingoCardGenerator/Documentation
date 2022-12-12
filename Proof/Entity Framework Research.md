@@ -12,7 +12,7 @@
       - [**What is a migration?**](#what-is-a-migration)
     - [**How to implement EF in the bingo card APIs? (Prototype)**](#how-to-implement-ef-in-the-bingo-card-apis-prototype)
   - [Conclusion](#conclusion)
-  - [Scources](#scources)
+  - [Sources](#sources)
 
 ## Subquestions
 
@@ -80,9 +80,10 @@ Optinally a database seed can be created that will run when the application star
 
 ## Conclusion
 
-Entity Framework can help implement and maintain the databse in the bingo card generator project by trivializing the quering of data as well as creating the databse. It does all the annoying database work for you and alows you to focus on actually creating the application.
+Writing SQL can be a long complex and confusing process. Using Enity framework can make this process much more understandable because it works directly with OOP. It also eleminates the need for writing SQL querries completely. It even takes care of updating the database schema.
+Therefore it frees up the time that would be used for these tasks for actual development of the project.
 
-## Scources
+## Sources
 
 - [Enity Framework Documentation used on 12-12-22](https://learn.microsoft.com/en-us/ef/core/)
 - [ORM used on 12-12-22](https://www.freecodecamp.org/news/what-is-an-orm-the-meaning-of-object-relational-mapping-database-tools/)
